@@ -13,8 +13,8 @@
 <a 
 
 ####  
-Phoenix-MD Multi Device Whatsapp Bot.
-## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
+Imran-BOT Multi Device Whatsapp Bot.
+## <sub>[External Plugins](https://github.com/MR-IMRAN-60/External-Plugins)</sub>
 
 ***
 
@@ -22,7 +22,7 @@ Phoenix-MD Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/Phoenix-MD/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/MR-IMRAN-60/Imran-Botwp/fork"><img title="Imran-Bot" src="https://img.shields.io/badge/FORK IMRAN BOT-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Scan QR Code
 
@@ -31,7 +31,7 @@ Fork The Repo
 <a href="https://phoenix-md-qr.onrender.com/session"><img title="Phoenix-MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 2-h?color=black&style=for-the-badge&logo=msi"></a>     
 
 
-## Phoenix-MD Deploy Method
+## Imran-Bot Deploy Method
 
 
 ### Deploy Codespace
